@@ -1,6 +1,0 @@
-while true do 
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 65
-Wait(0.1)
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 8
-wait(1)
-end
